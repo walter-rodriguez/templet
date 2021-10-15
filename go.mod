@@ -1,3 +1,3 @@
-module github.com/walter-rodriguez/gotemplet
+module wfrs.dev/wfrs/templet
 
 go 1.17
